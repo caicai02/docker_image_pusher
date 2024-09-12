@@ -1,10 +1,10 @@
 nginx
 minio/minio
-mysql
 redis
-rabbitmq
-elasticsearch
-kibana
+elasticsearch:7.17.2
+kibana:7.17.2
+rabbitmq:3-management
+mysql:8.0.21
 gitlab/gitlab-ce:17.0.0-ce.0
 
 
