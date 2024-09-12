@@ -1,2 +1,11 @@
 nginx
 minio/minio
+mysql
+redis
+rabbitmq
+elasticsearch
+kibana
+gitlab/gitlab-ce:17.0.0-ce.0
+
+
+
