@@ -15,6 +15,7 @@ k8s.gcr.io/etcd:3.4.3-0
 k8s.gcr.io/pause:3.1
 jmgao1983/flannel:v0.11.0-amd64
 gitlab/gitlab-runner:v17.1.2
+liferay/portal:7.4.3.129-ga129
 
 
 
